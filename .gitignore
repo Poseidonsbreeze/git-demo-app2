@@ -5,4 +5,4 @@ index.txt
 js/*
 !js/bootstrap.js
 css/asset-[2-3].css
-contact.html
+# contact.html
